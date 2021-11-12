@@ -1,5 +1,5 @@
 # youtube_dl_gui
-A lightweight gui to scrape mp3 and mp4 from youtube using youtube_dl created with Tkinter. Option to choose to scrape either mp3 or mp4, threading used to prevent freezing, option to select save location available.
+A lightweight GUI to scrape mp3 and mp4 from youtube using youtube_dl created with Tkinter. Options to select save location and file type. Threading has been used to prevent the GUI freezing
 
 Requires youtube_dl, FFmpeg (https://www.ffmpeg.org/)
 
