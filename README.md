@@ -5,5 +5,4 @@ Requires youtube_dl, FFmpeg (https://www.ffmpeg.org/)
 
 
 
-![image](https://user-images.githubusercontent.com/73283478/141522628-5daca7cc-cc36-4f88-9b2a-932e0c0d69ec.png)
-
+![image](https://user-images.githubusercontent.com/73283478/141523159-1c15218b-5f84-4d49-ae24-677a11930c6e.png)
